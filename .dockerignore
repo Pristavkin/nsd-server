@@ -1,0 +1,9 @@
+*~
+.git/
+.gitignore
+.gitmodules
+.travis.yml
+Makefile
+README.md
+test/
+.DS_Store
